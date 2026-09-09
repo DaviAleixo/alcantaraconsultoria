@@ -4,10 +4,10 @@ import type { HeroCredential, HeroDifferential } from '../types/hero.types'
 export const heroContent = {
   eyebrow: 'CONSULTORIA & ENGENHARIA MINERAL ESPECIALIZADA',
   headlineLines: [
-    { text: 'SOLUÇÕES TÉCNICAS', highlight: false },
-    { prefix: 'QUE ', highlightText: 'TRANSFORMAM' },
-    { text: 'DESAFIOS MINERAIS', highlight: false },
-    { prefix: 'EM ', highlightText: 'RESULTADOS REAIS.' },
+    { text: 'ENGENHARIA QUE', highlight: false },
+    { text: 'ACOMPANHA', highlight: false },
+    { highlightText: 'A OPERAÇÃO' },
+    { highlightText: 'POR INTEIRO.' },
   ],
   description:
     'Atuamos com engenharia de minas, gestão de direitos minerários, licenciamento ambiental, perícias e aerolevantamento com drones para entregar segurança, eficiência e valor em cada etapa do projeto.',

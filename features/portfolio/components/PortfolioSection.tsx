@@ -7,13 +7,12 @@ export function PortfolioSection() {
         {/* SECTION HEADER */}
         <div className="portfolio-header-center">
           <div className="portfolio-accent-line" />
-          <p className="portfolio-eyebrow">PORTFÓLIO & CASOS DE SUCESSO</p>
+          <p className="portfolio-eyebrow">PORTFÓLIO INSTITUCIONAL</p>
           <h2 className="portfolio-title">
-            SOLUÇÕES PRÁTICAS E<br />
-            RESULTADOS NA MINERAÇÃO
+            PROJETOS & RESULTADOS
           </h2>
           <p className="portfolio-subtitle">
-            Conheça nossas frentes técnicas de regularização, inteligência operacional, aerolevantamento e segurança em minas.
+            Conheça as frentes técnicas e operacionais conduzidas com excelência pela Alcântara.
           </p>
         </div>
 

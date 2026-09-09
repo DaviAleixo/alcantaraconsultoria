@@ -5,15 +5,12 @@ export function HeroHeadline() {
     <>
       <p className="hero-eyebrow">{heroContent.eyebrow}</p>
       <h1 className="hero-headline">
-        <span className="hl-line">SOLUÇÕES TÉCNICAS</span>
-        <span className="hl-line">
-          QUE <span className="hero-gradient-text">TRANSFORMAM</span>
-        </span>
-        <span className="hl-line">DESAFIOS MINERAIS</span>
-        <span className="hl-line">
-          EM <span className="hero-gradient-text">RESULTADOS REAIS.</span>
-        </span>
+        <span className="hl-line">ENGENHARIA QUE</span>
+        <span className="hl-line">ACOMPANHA</span>
+        <span className="hl-line hero-gradient-text">A OPERAÇÃO</span>
+        <span className="hl-line hero-gradient-text">POR INTEIRO.</span>
       </h1>
+      <div className="my-4 h-[3px] w-12 bg-gradient-to-r from-amber-600 to-amber-400 rounded-full" />
       <p className="hero-description">
         Atuamos com engenharia de minas, gestão de direitos minerários, licenciamento ambiental,
         perícias e <strong className="text-gold">aerolevantamento com drones</strong> para entregar
